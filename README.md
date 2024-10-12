@@ -11,7 +11,7 @@ Esta interfaz es una copia de Pinterest creada con HTML y CSS. Se enfoca en repl
 + **CSS3:** Para el diseño y estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_. 🌿
 + **Google Icons:** Para iconos personalizados. 🖼️
 
-### Vista previa del proyecto: **_Pendiente_** 📸
+### Vista previa del proyecto: (https://pinterestclon-itzel.vercel.app/) 📸
 **WhatsApp:** +524499993549 📱  
 **Instagram:** [ltzel_ttz](https://www.instagram.com/ltzel_ttz/profilecard/?igsh=MTN0amZjMmRpaHE0bQ==) 💖  
 **Correo personal:** valeria.itzlez_tg@hotmail.com 📧  
